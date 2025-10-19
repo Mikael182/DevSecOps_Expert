@@ -1,11 +1,9 @@
 # Git — spis sekcji
 
-Krótka strona z sekcjami dotyczącymi tematów związanych z Gitem. Każda sekcja zawiera podsekcje do wypełnienia treścią.sda
-
 ## 1. Wprowadzenie
-- Cel strony
-- Dlaczego Git?
-- Podstawowe pojęcia (commit, branch, repo)
+- Poznanie podstawowych poleceń Git w celu zarządzania wersjami dokumentów.
+- Git pozwala na zarządzanie wersjami plików oraz śledzenie zmian w wcześniej utworzonych dokumentach.
+- commit, branch, repo, status, add ., unset, push itd. - git oferuje wiele poleceń pozwalających na skuteczne zarządznie wersją.
 
 ## 2. Instalacja i konfiguracja
 - Instalacja (Windows / macOS / Linux)
@@ -13,7 +11,7 @@ Krótka strona z sekcjami dotyczącymi tematów związanych z Gitem. Każda sekc
 - SSH vs HTTPS
 
 ## 3. Podstawowy workflow
-- Init / Clone
+- Init / Clone 
 - Add / Commit
 - Push / Pull / Fetch
 - Status / Diff / Log
